@@ -56,15 +56,15 @@ int main(int argc, char** argv){
 	glutAddMenuEntry("Fill", 1);
 	glutAddMenuEntry("Reverse", 2);
 	glutAddMenuEntry("Gray", 3);
-	glutAddMenuEntry("Toon", 6);
-	glutAddMenuEntry("Mirrow", 5);
 	glutAddMenuEntry("Shine", 4);
-	glutAddMenuEntry("RedBlock", 10);
-	glutAddMenuEntry("colorBlock", 11);
-	glutAddMenuEntry("Laser", 9);
+	glutAddMenuEntry("Mirrow", 5);
+	glutAddMenuEntry("Toon", 6);
 	glutAddMenuEntry("noise", 7);
 	glutAddMenuEntry("sinWaveNoise", 8);
-
+	glutAddMenuEntry("Laser", 9);
+	glutAddMenuEntry("RedBlock", 10);
+	glutAddMenuEntry("colorBlock", 11);
+	
 
 
 
